@@ -1,0 +1,10 @@
+{
+  "RPA": [
+    {
+      "id": "FAT.AIT",
+      "name": "Faturamento PJ via AIT",
+      "system": "SPOC",
+      "users": "Vinicius Camara, Tatiane Andrade"
+    }
+  ]
+}
