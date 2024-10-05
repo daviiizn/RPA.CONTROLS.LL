@@ -3,7 +3,7 @@
     {
       "id": "FAT.AIT",
       "name": "Faturamento PJ via AIT",
-      "version": "1.0",
+      "version": "1.0.0",
       "system": "SPOC",
       "users": "Vinicius Camara, Tatiane Andrade"
     }
