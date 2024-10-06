@@ -3,9 +3,10 @@
     {
       "id": "FAT.AIT",
       "name": "Faturamento PJ via AIT",
-      "version": "3.0.0",
+      "version": "3.1.0.0",
       "system": "SPOC",
-      "users": "Vinicius Camara, Tatiane Andrade"
+      "infoLastUpdate": "Algumas funcionalidades incluídas.",
+      "dateLastUpdate": "2024/10/06"
     }
   ]
 }
