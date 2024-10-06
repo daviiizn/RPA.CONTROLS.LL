@@ -1,8 +1,8 @@
 {
   "RPA": [
     {
-      "id": "FAT.AIT",
-      "name": "Faturamento PJ via AIT",
+      "id": "TEST.000",
+      "name": "Teste para Versionamento",
       "version": "3.1.0.0",
       "system": "SPOC",
       "infoLastUpdate": "Algumas funcionalidades incluídas.",
