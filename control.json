@@ -7,6 +7,14 @@
       "system": "SPOC",
       "infoLastUpdate": "Algumas funcionalidades incluídas.",
       "dateLastUpdate": "2024/10/06"
+    },
+    {
+      "id": "FAT.PJ.AIT",
+      "name": "Faturamento PJ por AIT",
+      "version": "0.3.0.0",
+      "system": "SPOC - Analise de Multa Transito",
+      "infoLastUpdate": "Sistema de versionamento incluído",
+      "dateLastUpdate": "2024/10/07"
     }
   ]
 }
