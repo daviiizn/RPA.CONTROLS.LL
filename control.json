@@ -13,7 +13,7 @@
       "name": "Faturamento PJ por AIT",
       "version": "1.0.0.0",
       "system": "SPOC - Analise de Multa Transito",
-      "infoLastUpdate": "Sistema de versionamento incluído",
+      "infoLastUpdate": "Adicionado um openFileDialog para seleção de planilha",
       "dateLastUpdate": "2024/10/07"
     }
   ]
